@@ -12,3 +12,4 @@ Need:
 * Show location types by color (lake/pond, river, etc) [2]
 * Fishing rod combinations (what do you have dropdown, what do you want dropdown) [1]
 *   Can either have one dropdown filled, the other, or both
+* Using fish grades, choose what to see and not see based on progression (unlocked islands) [2]
